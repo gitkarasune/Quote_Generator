@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+/* Adding this to the Big Create New Button at top of the page */
+.customBlockBtn {
+    background-color: transparent;
+    color: blue;
+}
+
+.setAnyToDisplayNone {
+    display: none;
+}
+
+/* In order to push the FontAwesome Icons Up A little */
+#FaIcon {
+    margin-top: -15px;
+    margin-bottom: 10px;
+}
