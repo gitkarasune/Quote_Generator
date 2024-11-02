@@ -18,7 +18,7 @@ const App = () => {
     setIsLoading(true);
     setError(false);
     try {
-      const response = await axios.get('https://api.quotable.io/random');
+      const response = await axios.get('http://api.quotable.io/random');
 
       if (response.data && response.data.content && response.data.author) {
         setQuote(response.data.content);
