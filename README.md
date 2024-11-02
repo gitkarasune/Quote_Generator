@@ -5,7 +5,7 @@ Welcome to **Quote Generator**. A dynamic web application built on top of **Reac
 
 ## 🌟 Live Demo
 
-Check out the live project here: Quote Generator - quote-generator-kd.vercel.app **enjoy your daily quick boost of motivation!**
+Check out the live project here: Quote Generator - [](quote-generator-kd.vercel.app) **enjoy your daily quick boost of motivation!**
 
 <br/>
 
