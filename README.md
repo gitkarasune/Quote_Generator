@@ -1,6 +1,6 @@
 # Quote Generator with ReactJs
 
-Welcome to **Quote Generator**. A dynamic web application built on top of **ReactJs**. This do really allows any users to generate random quotes, making it clear for daily quick boost of motivation.  
+Welcome to **Quote Generator**. A dynamic web application built on top of **React**. This do really allows any users to generate random quotes, making it clear for daily quick boost of motivation.  
 <br/>
 
 ## 🌟 Live Demo
