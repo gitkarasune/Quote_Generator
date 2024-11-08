@@ -3,12 +3,6 @@
 Welcome to **Quote Generator**. A dynamic web application built on top of **React**. This do really allows any users to generate random quotes, making it clear for daily quick boost of motivation.  
 <br/>
 
-## 🌟 Live Demo
-
-Check out the live project here: Quote Generator - [quote-generator-kd.vercel.app](quote-generator-kd.vercel.app) **enjoy your daily quick boost of motivation!**
-
-<br/>
-
 ## 💻 Project Overview
 
 This **ReactJs Quote Generator** pulls from a pool of motivational quotes and displaying them with a sleek, user-friendly design. users can refresh quotes with a click and share their favorites with friends on social media as well. 🥇🥉
